@@ -10,6 +10,7 @@ Many changes were made to the code, some were to improve the code, some were to 
 
 Listing all of the changes here:
 
+
 	1. Changed the python cryptographic library used from PKCS1_V1_15 to pkcs1_15
  
 	2. Added features of Auto signing transaction on creation (no need to call the funciton separately)
